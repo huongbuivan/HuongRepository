@@ -1,1 +1,2 @@
-# HuongRepository
+# RDJavaTraining
+Java Training Project
